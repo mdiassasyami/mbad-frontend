@@ -1,5 +1,4 @@
 import { Routes, Route } from "react-router-dom";
-import Survey from "./Survey";
 import Login from "./Login";
 import Home from "./Home";
 import Dashboard from "./Dashboard";
