@@ -18,7 +18,6 @@ function App() {
         } 
       />
 
-      <Route path="/survey" element={<Survey />} />
       <Route path="/login" element={<Login />} />
     </Routes>
   );
